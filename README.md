@@ -2,7 +2,6 @@
 
 **Finance, volatility and quantitative analysis.** I'm Francesco Luisi, a finance graduate focused on quantitative finance, financial engineering, derivatives and risk analytics. My academic background combines banking and financial markets with quantitative methods and international finance.
 
-🔗 **Live site:** https://fraslx.github.io
 
 ## What's inside
 
@@ -17,13 +16,6 @@
 
 Plain HTML and CSS — no frameworks, no build step. Hosted on GitHub Pages.
 
-## Contact
 
-I'm interested in opportunities in **quantitative finance, derivatives, financial engineering, risk management, treasury and financial analytics**.
 
-Reach out via the contact section on my site or through LinkedIn.
-
-## CV
-
-Recruiters can download my CV directly from the site, or here: [Francesco-Luisi-CV.pdf](./Francesco-Luisi-CV.pdf)
 
