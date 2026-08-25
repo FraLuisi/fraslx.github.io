@@ -37,6 +37,9 @@ Fundamental valuation of Cboe Global Markets using discounted cash flow analysis
 **Methods:** DCF, comparable-company analysis, scenario analysis and Monte Carlo simulation
 **Tools:** Excel, Bloomberg Terminal and financial statement analysis
 
+- [DCF Valuation Model](CBOE_DCF_Luisi_Francesco.xlsm)
+- [DCF Valuation Model — Market Imperfections](CBOE_DCF_Imperfect_Luisi_Francesco.xlsm)
+
 ### Option Greeks and Sensitivity Analysis
 
 Excel-based model for analysing the sensitivity of European options to changes in the underlying price, volatility, time and interest rates.
