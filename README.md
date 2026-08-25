@@ -23,14 +23,14 @@ My interests focus at the intersection of financial markets, quantitative method
 
 ## Selected Projects
 
-### Forecasting the VIX using the VVIX (https://github.com/Fraslx/VIX-VVIX-Thesis-)
+### Forecasting the VIX using the VVIX 
 
 MSc thesis investigating whether the VVIX contains incremental information for forecasting the VIX. The analysis compares traditional time-series benchmarks with extended forecasting models and examines whether predictive relationships change across different financial-stress regimes.
 
 **Methods:** HAR models, time-series forecasting, Granger causality, rolling analysis and out-of-sample evaluation
 **Tools:** Python, Pandas, NumPy, Statsmodels, Scikit-learn
 
-### Cboe Global Markets Valuation (https://github.com/Fraslx/cboe-global-markets-valuation)
+### Cboe Global Markets Valuation 
 
 Fundamental valuation of Cboe Global Markets using discounted cash flow analysis and market multiples. The project includes scenario analysis, sensitivity analysis and a Monte Carlo simulation of the main valuation assumptions.
 
@@ -44,6 +44,14 @@ Excel-based model for analysing the sensitivity of European options to changes i
 **Methods:** Black–Scholes pricing, Delta, Gamma, Vega, Theta, Rho and higher-order Greeks
 **Tools:** Excel and quantitative modelling
 
+### VIX vs. VVIX: Volatility-of-Volatility Analysis
+
+Empirical comparison of the VIX and VVIX indices from 2007 to 2025. The project examines volatility clustering, asymmetric shock responses, tail dependence and volatility amplification using EGARCH models and a Student-t copula, with a dedicated analysis of the COVID-19 crisis.
+
+**Methods:** Time-Series Analysis, EGARCH, Student-t Copula, Volatility Forecasting  
+**Tools:** R, Financial Econometrics  
+
+[View Project Report](VIX_VVIX_Comparison.pdf)
 
 ## Research Interests
 
