@@ -8,16 +8,18 @@ My interests focus at the intersection of financial markets, quantitative method
 
 ## Academic Background
 
-**Double Degree MSc in International Finance**
-HfWU Nürtingen-Geislingen, Germany
-Final Coursework Average: 1.2 out of 5.0 
-**MSc in Banking, Corporate Finance and Financial Markets**
-University of Pisa, Italy
-Final Coursework Average: 29,18/30 (Expected final grade 110 cum laude)
+### MSc in International Finance
+- HfWU Nürtingen-Geislingen, Germany
+- Final Coursework Average: 1.2/5.0
 
-**BSc in Banking, Finance and Financial Markets**
-University of Pisa, Italy — 110/110 with honours
-Final Grade: 110 cum laude
+### MSc in Banking, Corporate Finance and Financial Markets
+- University of Pisa, Italy
+- Final Coursework Average: 29.18/30
+- Expected Final Grade: 110/110 cum laude
+
+### BSc in Banking, Finance and Financial Markets
+- University of Pisa, Italy
+- Final Grade: 110/110 cum laude
 
 ## Selected Projects
 
