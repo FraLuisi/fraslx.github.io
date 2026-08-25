@@ -52,3 +52,6 @@ Volatility forecasting, derivatives pricing, financial engineering, market and l
 ## Portfolio Development
 
 This repository is being developed as a collection of selected academic and quantitative-finance projects. Code, documentation, visual results and project reports will be added progressively.
+
+## DOWNLOAD CV
+[View / Download CV](CV_Luisi_Francesco.pdf)
