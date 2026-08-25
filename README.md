@@ -1,6 +1,6 @@
 # Francesco Luisi
 
-### Quantitative Finance · Risk Analytics
+### Quantitative Finance 
 
 Finance graduate currently completing a Double Degree MSc in International Finance at HfWU Nürtingen-Geislingen and an MSc in Banking, Corporate Finance and Financial Markets at the University of Pisa.
 
@@ -23,7 +23,7 @@ My interests focus at the intersection of financial markets, quantitative method
 
 ## Selected Projects
 
-### Forecasting the VIX using the VVIX
+### Forecasting the VIX using the VVIX (https://github.com/Fraslx/VIX-VVIX-Thesis-)
 
 MSc thesis investigating whether the VVIX contains incremental information for forecasting the VIX. The analysis compares traditional time-series benchmarks with extended forecasting models and examines whether predictive relationships change across different financial-stress regimes.
 
