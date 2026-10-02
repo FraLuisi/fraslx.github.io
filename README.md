@@ -30,6 +30,9 @@ Final Grade: 110/110 cum laude
 
 This thesis marked the beginning of my interest in financial econometrics and in the detailed empirical analysis of financial markets.
 
+The research focused on the formation, development and collapse of speculative bubbles, with particular attention to cryptocurrency markets and meme coins as examples of markets strongly influenced by investor sentiment, herd behavior and speculative dynamics.
+
+
 ---
 
 ## Selected Projects
