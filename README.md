@@ -91,6 +91,7 @@ The project will investigate whether the empirical patterns identified in the US
 
 **Status:** Planned
 
+---
 
 ### 4. International Extension | International Markets
 
