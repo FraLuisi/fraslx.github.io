@@ -13,7 +13,7 @@ Volatility · Derivatives · Financial Econometrics · Quantitative Risk
 ### MSc in International Finance
 
 **HfWU Nürtingen-Geislingen, Germany**  
-Final Coursework Average: 1.2
+Final Coursework Average: 1.2/5.0 (Achieved 1.0 in 6 out of 9 exams)
 
 ### MSc in Banking, Corporate Finance and Financial Markets
 
@@ -25,6 +25,10 @@ Expected Graduation: December 2026
 
 **University of Pisa, Italy**  
 Final Grade: 110/110 cum laude
+
+**Thesis:** *Irrational Behavior in Finance: An Analysis of Phishing and Speculative Bubbles*
+
+This thesis marked the beginning of my interest in financial econometrics and in the detailed empirical analysis of financial markets.
 
 ---
 
