@@ -15,7 +15,7 @@ My interests focus at the intersection of financial markets, quantitative method
 ### MSc in Banking, Corporate Finance and Financial Markets
 - University of Pisa, Italy
 - Final Coursework Average: 29.18/30
-- Graduation date by December 2026
+- Graduation by December 2026
 
 ### BSc in Banking, Finance and Financial Markets
 - University of Pisa, Italy
