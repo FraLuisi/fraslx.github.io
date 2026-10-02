@@ -13,23 +13,46 @@
   <a href="LINK-CV">CV</a> •
   <a href="mailto:francescoluisi3@proton.me">Email</a>
 </p>
+<h2 align="center">Academic Background</h2>
 
-## Academic Background
+<div align="center">
 
-### MSc in International Finance
-- HfWU Nürtingen-Geislingen, Germany
-- Final Coursework Average: 1.2/5.0
+<h3>MSc in International Finance</h3>
 
-### MSc in Banking, Corporate Finance and Financial Markets
-- University of Pisa, Italy
-- Final Coursework Average: 29.18/30
-- Graduation by December 2026
+HfWU Nürtingen-Geislingen, Germany<br>
+Final Coursework Average: 1.2/5.0
 
-### BSc in Banking, Finance and Financial Markets
-- University of Pisa, Italy
-- Final Grade: 110/110 cum laude
+<h3>MSc in Banking, Corporate Finance and Financial Markets</h3>
 
-## Selected Projects
+University of Pisa, Italy<br>
+Final Coursework Average: 29.18/30<br>
+Expected Graduation: December 2026
+
+<h3>BSc in Banking, Finance and Financial Markets</h3>
+
+University of Pisa, Italy<br>
+Final Grade: 110/110 cum laude
+
+</div>
+
+<h2 align="center">Selected Projects</h2>
+## Volatility Research
+
+<p align="center">
+  <b>US Market</b> → <b>European Market</b> → <b>Italian Market</b><br>
+  VIX–VVIX → VSTOXX–VVSTOXX → VVFTSEMIB
+</p>
+
+My research focuses on whether volatility-of-volatility contains
+incremental information about future volatility dynamics across
+different equity markets.
+
+
+
+
+
+
+
 
 ### Forecasting the VIX using the VVIX 
 
