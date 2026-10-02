@@ -90,7 +90,7 @@ The project will investigate whether the empirical patterns identified in the US
 
 ### Cboe Global Markets Valuation
 
-Fundamental valuation of Cboe Global Markets using discounted cash flow analysis and market multiples. The project includes scenario analysis, sensitivity analysis and a Monte Carlo simulation of the main valuation assumptions.
+Fundamental valuation of Cboe Global Markets using discounted cash flow analysis and market multiples. The project includes scenario analysis, sensitivity analysis and a Monte Carlo simulation of the main valuation assumptions. I did this project to understand more about the company that developed VVIX and VIX. 
 
 **Methods:** DCF, comparable-company analysis, scenario analysis and Monte Carlo simulation  
 **Tools:** Excel, Bloomberg Terminal and financial statement analysis
