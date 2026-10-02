@@ -84,6 +84,23 @@ The project will investigate whether the empirical patterns identified in the US
 
 **Status:** Planned
 
+
+### 4. International Extension | International Markets
+
+**International Extension**
+
+The fourth stage extends the volatility and volatility-of-volatility framework to additional international equity markets.
+
+The objective is to investigate whether the relationships identified in the US, European and Italian markets generalize across different financial markets, and whether volatility-of-volatility provides systematic predictive information across countries with different market structures and volatility dynamics.
+
+Where established volatility-of-volatility indices are not available, the project will explore the feasibility of constructing market-specific volatility-of-volatility measures using a methodology consistent with the previous stages of the research.
+
+**Research Focus:** Cross-market predictability, volatility-of-volatility, international equity markets, index construction and comparative analysis  
+**Methods:** Time-series forecasting, HAR models, out-of-sample evaluation, cross-market comparison and robustness analysis  
+**Tools:** Python, Pandas, NumPy, Statsmodels
+
+**Status:** Planned
+
 ---
 
 ## Other Quantitative Finance Projects
