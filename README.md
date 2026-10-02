@@ -1,10 +1,18 @@
-# Francesco Luisi
+<h1 align="center">Francesco Luisi</h1>
 
-### Quantitative Finance 
+<p align="center">
+  MSc International Finance | Quantitative Finance & Financial Markets
+</p>
 
-Finance graduate currently completing a Double Degree MSc in International Finance at HfWU Nürtingen-Geislingen and an MSc in Banking, Corporate Finance and Financial Markets at the University of Pisa.
+<p align="center">
+  Volatility • Derivatives • Financial Econometrics • Quantitative Risk
+</p>
 
-My interests focus at the intersection of financial markets, quantitative methods and data analysis, with a particular focus on volatility, derivatives, financial forecasting, risk analytics and valuation.
+<p align="center">
+  <a href="LINKEDIN">LinkedIn</a> •
+  <a href="LINK-CV">CV</a> •
+  <a href="mailto:francescoluisi3@proton.me">Email</a>
+</p>
 
 ## Academic Background
 
