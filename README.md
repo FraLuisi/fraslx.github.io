@@ -30,6 +30,8 @@ MSc thesis investigating whether the VVIX contains incremental information for f
 **Methods:** HAR models, time-series forecasting, Granger causality, rolling analysis and out-of-sample evaluation
 **Tools:** Python, Pandas, NumPy, Statsmodels, Scikit-learn
 
+[View Project and codes](https://github.com/FraLuisi/VIX-VVIX-Analysis)
+
 ### Cboe Global Markets Valuation 
 
 Fundamental valuation of Cboe Global Markets using discounted cash flow analysis and market multiples. The project includes scenario analysis, sensitivity analysis and a Monte Carlo simulation of the main valuation assumptions.
